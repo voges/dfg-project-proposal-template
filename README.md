@@ -2,7 +2,7 @@
 
 _A minimalist LaTeX template for DFG project proposals_
 
-For all those of you who want to write a DFG Project Proposal, but feel that [RTF](https://de.wikipedia.org/wiki/Rich_Text_Format), Word, or Google Docs won't do the job.
+For all those of you who want to write a DFG Project Proposal, but feel that Word or Google Docs won't do the job.
 
 This template is based on [DFG form 53.01 elan](https://www.dfg.de/de/foerderung/antrag-foerderprozess/formulare-merkblaetter) "Project Description - Project Proposal [09/22]", with a few sensible changes:
 - No header
