@@ -9,7 +9,7 @@ This template is based on [DFG form 53.01 elan](https://www.dfg.de/de/foerderung
 - Page numbers at the bottom center
 - LaTeX's default font sizes for headings (instead of using Arial 11 pt for everything)
 
-This template works with XeLaTeX or LuaLaTeX as compiler.
+This template works with LuaLaTeX as compiler.
 
 This is intentionally a minimal viable product.
 For a more sophisticated, but also more complex start, there is [this template](https://www.overleaf.com/latex/templates/dfg-research-grants-programme-proposal-template/xbbjqskssjxq) by [Johannes Köster](https://johanneskoester.bitbucket.io).
